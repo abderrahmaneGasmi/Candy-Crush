@@ -1,0 +1,23 @@
+@import "./style/base/utilities.css";
+html {
+  font-size: 62.5%;
+}
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: linear-gradient(
+    to right,
+    #e60f8e,
+    #c75ed2,
+    #8c8cfc,
+    #3faeff,
+    #00c7ff,
+    #00d5fc,
+    #00e2f2,
+    #00eee3,
+    #23f3c1,
+    #65f693,
+    #9ef45e,
+    #d7ec13
+  );
+}
