@@ -1,4 +1,6 @@
 @import "./style/base/utilities.css";
+@import "./style/base/animation.css";
+
 html {
   font-size: 62.5%;
 }

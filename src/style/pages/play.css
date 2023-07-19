@@ -1,4 +1,7 @@
 .playContainer {
+  background-image: url("../../../public/wallpaper.jpg");
+  height: 100vh;
+  position: relative;
 }
 
 .leveltable {
@@ -206,7 +209,7 @@
 
 .startcontainer {
   display: flex;
-  gap: 2rem;
+  gap: 9rem;
 }
 
 .pentagon {
